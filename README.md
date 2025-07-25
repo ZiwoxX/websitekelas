@@ -1,6 +1,9 @@
 # Web Kelas
 Web Kelas adalah platform yang bertujuan untuk menyediakan informasi tentang kelas kami. 
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/c2ca021f-5388-40c3-82e7-abedae517b76" />
+
+
 Teknologi yang digunakan diantaranya: 
 - React JS: Membangun antarmuka pengguna yang responsif dan interaktif.
 - MUI: MUI (Material-UI) digunakan untuk mendesain antarmuka dengan komponen Material Design yang indah.
